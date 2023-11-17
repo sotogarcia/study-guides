@@ -1,0 +1,26 @@
+Software: componentes intangibles de la computadora.
+Firmware: software fuertemente ligado a dispositivo.
+BIOS/UEFI: firmware de la placa base.
+
+
+| Aplicacines...    |                                   
+|-------------------|                                   CLI: Command line Interface
+                         | SHELL (Interfaz usuaio) | -> GUI: Graphical User Interface
+                         | ----------------------- |
+                         | KERNEL (Núcleo)         | (núcleo modular)
+                         | ----------------------- |
+                         | CARGADOR DE ARRANQUE    | (Bootmgr)
+| SISTEMA OPERATIVO | -> | ----------------------- |
+| ----------------- |
+| BIOS / UEFI       |
+| ----------------- |
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+# Microprocesador y memoria
+
+
+## Microprocesador
+	
+    - Circuito integrado que agrupa todos los elementos de la CPU
+     
+    + Partes
+	
+	- CU	Control Unit / Unidad de control
+	- ALU	Arithmetic and logic Unit / Unidad aritmético-lógica
+
+    + Registros
+	
+	- Memoria intera última de la CPU
+	- Cada registro tiene el tamaño de una PALABRA
+
+    + Componentes de la CU
+
+	- IR			Instruction record / Registro de instrucción
+	- PC			Offset (desplazamiento) de memoria de la instrucción siguiente
+	- Decodificador		Convierte la instrucción en impulsos eléctricos
+	- Secuenciador		Ejecuta la instrucción
+	- Reloj			Determina la frecuencia de los ciclos de la CPU
+
+    + Componentes de la ALU
+
+	- Acumulador		Almacena el acarreo en operaciones matemáticas complejas
+	- Flags (banderas)	Almacenan VERDADERO o FALSO
+ 
+    + Otros componentes
+
+	- FPU		Floating Point Unit / Unidad de coma flotante (coprocesador matemático)
+	- Caché		Memoria que almacena la información que presumiblemente se consumirá repetidamente en el corto plazo
+
+
+-----------------------------------------------------------------------------------------------------------
+
+## Memorias
+
+### Principales
+
+    - Aquellas que son imprescidibles para el funcionamiento del hardware de la computadora
+
+
+    + RAM	Random Access Memory / Memoria de Acceso Aleatorio
+
+	- SRAM	Static RAM / RAM Estática
+
+	- DRAM	Dynamic RAM / RAM dinámica
+	    · FPM RAM
+	    · EDO RAM
+	    · SDRAM
+	    · DDR	Double Data Rate / Tasa de datos doble
+	    · RAMBUS
+
+    + ROM	Read Only Memory / Memoria de sólo lectura
+
+	- PROM
+	    · Programmable Read-Only Memory
+	    · Se puede grabar una sóla vez
+
+	- EPROM
+	    · Erasable and Programmable Read Read-Only Memory
+	    · Se puede borrar y reprogramar un número muy limitado de veces
+	    · Generalmente requiere un grabador especial (luz ultravioleta)
+
+	- EEPROM
+	    · Electrically Erasable Programmable Read-Only Memory
+	    · Se puede borrar y reprogramar 
+	    · El borrao y el grabado se hacen con un circuito eléctrico
+
+         - Flash (Especialización de memorias EEPROM)
+	    · Memoria EEPROM que puedo leer y escribir en varias posiciones a la vez
+	
+
+### Secundarias
+
+    + Tecnología de papel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Memoria principal
+
+    - Memoria que auxilia en sus funciones a la CPU
+    - Es de tipo RAM (Random Access Memory / Memoria de Acceso Aleatorio)
+    - Es volátil, al desconectar la alimentación eléctrica pierde su contenido
+    - Se divide en celdas
+    - Cada celda de memoria tiene el tamaño de una PALABRA	
+
+## Conexión entre la CPU y la Memoria RAM
+
+    + FSB
+	- Front Side Bus / Bus frontal
+	- Une la CPU con la memoria RAM
+	- El ancho del FSB es de una PALABRA
+
+    + NorthBridge
+
+	- GMHC	Graphics and Memory Controller Hub / Hub Controlador de memoria y gráficos
+	- Se encarga de controlar la información que circula por el FSB	
+	- También controla los buses de la tarjeta gráfica
+	    · AGP	Accelerated Graphics Port / Puerto de aceleración gráfica
+	    · PCIe 	PCI Express (de alta velocidad)
+
+
+

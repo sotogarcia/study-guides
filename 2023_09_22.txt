@@ -1,0 +1,202 @@
+# Conceptos básicos
+
+    + Informática
+
+	- Ciencia, disciplina, conjunto de conocimientos que se encargan del tratamiento de la INFORmación de forma autoMÁTICA.
+
+
+    + Computadora (Ordenador)
+
+	- Máquina que hace posible el tratamiento automático de la información.
+
+    + Dato
+
+	- Representación simbólica de un hecho o un concepto.
+
+    + Información
+
+	- Conjunto de datos resultante del procesamiento y análidis que se realiza a los datos para dotarlos de significado.
+	- En mucho casos el propio contexto da significado a estos datos convirtiéndolos en información.
+
+    + CPU / UCP
+
+	- Central Processing Unit / Unidad Central de Proceso
+	- Es el elemento o cunjunto de elementos que conforman el núcleo central de la computadora
+	- Se encarga del procesamiento de la información
+	- Tiene dos parte diferenciadas: CU y la ALU.
+
+    + CU / UC
+
+	- Control Unit / Unidad de Control
+	- Se encarga de todas las operaciones NO relacionadas por la ALU /UAL
+
+    + ALU / UAL
+
+	- Arithmetic Logic Unit / Unidad Aritmético Lógica
+	- Se encarga de realizar todos los cálculos aritméticos y lógicos
+
+    + Periféricos
+
+	- Todos aquellos componentes físicos del ordenador que NO forman parte de la CPU
+
+	+ Fundamental
+		
+  	    - Entrada : introducen información en la computadora
+	    - Salida  : permiten la salida de información de la computadora
+
+  	+ Secundaria
+
+	    - Internos: se alojan dentro del chasis
+	    - Externos: están fuera del chasis
+
+    + Hardware:
+
+	- Conjunto de componentes tangibles de un sistema informático
+
+    + Software:
+
+	- Conjunto de componentes intangibles de un sistema informático
+
+	- Firmware: 
+
+	    · Software fuertemente ligado al dispositivo
+
+    + BUS
+
+	- Caminos por los cuales circula la información
+	
+	+ Clasificación fundamental
+
+	    - Serie	: envía un bit cada vez
+	    - Paralelo	: envía varios bits a la vez
+
+   	+ Clasificación alternativa
+
+	    - Datos	  : transfiere datos
+	    - Direcciones : transfiere las direcciones de memoria para la lectura/almacena de esos datos
+	    - Control	  : transfiere instrucciones, órdenes.
+
+    + Puertos / Interfaz de conexión
+
+	- Conexión funcional entre dos sistemas que permite el intercambio de información
+
+    + BIOS (IBM-197x)
+
+	- Basic Input and Output System / Sistema de entrada y salida básico
+	- Constituye el firmware de la placa base
+	- Se aloja en una memoria persistente de sólo lectura
+	
+	- Funciones:
+	    - Iniciar todos los dispositivos conectados 
+	    - Comprobar que funcionan
+	
+	- SETUP: Conjunto de páginas de configuración de la BIOS
+	- POST : Power-On-Self-Test / Autoprueba de encendido
+	- CMOS
+	    · Complementary Metal-Oxide-Semiconductor 
+	    · Aloja los parámetros de configuración de la BIOS
+	    · Memoria de timpo RAM, NO persistente
+
+    + UEFI (Intel)
+
+	- Unified Extensible Firmware Interface / Interfaz de Firmware Extensible Unificada
+
+
+    + Sistema informático
+	
+	- Conjunto de partes interrelacionadas compuesto por:
+	
+	    · Hardware
+	    · Sofware
+	    · Usuario	
+
+    + Memoria
+
+	- Dispositivo que retiene los datos/información durante un período de tiempo
+
+	+ TIPO
+	    - RAM
+		· Random Access Memory / Memoria de acceso aleatorio
+		· Es posible acceder a cualquiera de las posiciones sin pasar por las demás
+		· Es posible acceder a cualquiera de las posiciones en la misma cantidad de tiempo
+
+	    - ROM
+		· Read Only Memory / Memoria de solo lectura
+		· No puede, a priori, volver a ser grabada
+		
+    + Bit
+
+	· Unidad mínima de información
+
+	+ Representaciones
+
+		1 	  / 0
+		Verdadero / Falso
+		Cerrado   / Abierto
+		Sí        / No
+
+    + Byte
+
+	· Mínimo elemento de memoria direccionable en una computadora
+	· Cantidad mínima de información que puede ser leida o escrita en una memoria
+	· Salvo indicación contraria, un byte tiene 8 bits, es un octeto de bits
+
+    + Múltiplos de Byte
+
+	B	2^0	B	Byte		
+	KB	2^10	B	Kilobyte	KiB	Kibibyte
+	MB	2^20	B	Megabyte	MiB	Mebibyte
+	GB	2^30	B	Gigabyte	GiB	Gibibyte
+	TB	2^40	B	Terabyte	...
+	PB	2^50	B	Petabyte	
+	EB	2^60	B	Exabyte		
+	ZB	2^70	B	Zettabyte	
+	YB	2^80	B	Yottabyte	
+	BB	2^90	B	Brontobyte	
+
+# Historia
+
+    ## Antes de las computadoras electrónicas
+
+	- Ábaco				: Primera máquina de cálculo de la historia
+	- Máquina analítica de Babbage	: Primera máquina programable de la historia
+		· Ada Augusta Byron fue la primera en escribir un programa para esta máquina
+		  (Ada Lovelace)
+	* Telar de Jacquard 		: Primera máquina que emplea tarjetas perforadas como memoria
+	- Pascalina			: Primera máquina computadora funcional
+	- Ajedrecista de Torres Quevedo	: Primera máquina computadora construida en España
+	- Colossus Mark I
+	    · Electró-mecánica
+	    · Se desarrolla durante la segunda guerra mundial en el Reino Unido
+	    · El encargado fue Alan Touring
+	    · Sentó las bases de lo que se conoce como Máquina de Touring Completa
+	    
+    ## Computadoras electrónicas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

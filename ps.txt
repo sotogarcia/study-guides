@@ -1,0 +1,6 @@
+112468. Abrimos una consola de Windows PowerShell con un usuario administrador y escribimos: certmgr.msc ¿Qué sucederá?
+112468. Abrimos una consola de Windows PowerShell con un usuario administrador y escribimos: certmgr.msc ¿Qué sucederá?
+a) Nos dice que no se reconoce como un comando interno y externo
+x) Se abre la herramienta do administración de certificados
+c) No recibimos respuesta alguna
+d) Se abre la herramienta para certificar archivos de Windows

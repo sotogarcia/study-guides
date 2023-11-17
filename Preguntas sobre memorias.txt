@@ -1,0 +1,106 @@
+> La capacidad de un Un Business card CD es de 50 MB
+> La unidad ZIP comenzón en 100MB, paso a 250MB y llegó a los 750MB
+Quiero almecenar varios archivos los cuales, en conjunto, ocupan 524 KB.
+1. ¿Cuál de las siguientes memorias se ajustaría mejor a la capacidad requerida?
+a) Un CD-ROM
+b) Una unidad ZIP
+c) Un Business card CD
+d) Un disco flexible
+
+> Un CD tiene entorno a 700MB.
+Quiero almecenar varios archivos los cuales, en conjunto, ocupan 524 MB.
+1. ¿Cuál de las siguientes memorias se ajustaría mejor a la capacidad requerida?
+a) Un CD-ROM
+b) Un DVD-ROM
+c) Un Blu-Ray
+d) Un HD-DVD
+
+1. Un DVD 10 tiene...
+a) Una cara con una capa
+x) Dos caras con una capa cada una
+c) Una sola cara con una capa
+d) Una cara con un capa y otra con dos capas
+
+1. Un DVD 14 tiene...
+a) Una cara con una capa
+b) Dos caras con una capa cada una
+c) Una sola cara con una capa
+d) Una cara con un capa y otra con dos capas
+
+Quiero almecenar varios archivos los cuales, en conjunto, ocupan 35 GB.
+1. ¿Cuál de las siguientes memorias se ajustaría mejor a la capacidad requerida?
+x) Un Blu-Ray de dos capas
+b) Un HD-DVD de una sola capa
+c) Un Blu-Ray de una sola capa
+d) Un HD-DVD de dos capas
+
+> CD-ROM es Compact Disc Read-only Memory, por lo tanto es de sólo lectura
+1. Un CD-ROM es un periférico de...
+a) Entrada
+b) Salida
+c) Entrada y salida
+a) De salida hasta que lo grabas y luego pasa a ser de entrada
+
+> CD-R es Compact Disc Recordable, por lo tanto grabable una sola vez
+1. Un CD-R es un periférico de...
+a) Entrada
+b) Salida
+x) Entrada y salida
+a) De red
+
+1. ¿A qué corresponden las siglas DVD?
+a) Digital Visual Disc
+x) Digital Versatile Disc
+c) Double Versatile Disc
+d) Double Visual Disc
+
+1. ¿Cuál es el número máximo de caras y capas legibles que puede tener un CD-ROM?
+x) Una cara con una capa
+b) Una cara con hasta dos capas
+c) Hasta dos caras con una capa en cada una
+d) Hasta dos caras y estas a su vez con hasta dos capas
+
+> El DVD-RAM es de acceso aleatorio, tanto para leer como para escribir.
+1. ¿Cuál de las siguientes memorias ópticas permite grabar una posición, borrarla y volverla a grabar sin necesidad de borrar el resto del disco?
+a) CD-R
+b) DVD-RW
+c) HD-DVD
+x) DVD-RAM
+
+1. ¿Qué es una unidad de estado sólido?
+a) Un disco magnético
+b) Una memoria magnética sin platos
+x) Una memoria masiva basada en semiconductores 
+d) No existe
+
+1. Un disco duro se divide...
+x) Concéntricamente en pistas y radialmente en sectores
+b) Concéntricamente en sectores y radialmente en pistas
+c) Concéntricamente en clusters y radialmente en pistas
+c) Concéntricamente en clusters y radialmente en sectores
+
+
+> Byte: cantidad mínima de información que puede ser leida o escrita en una memoria
+> Palabra: cantidad máxima de información que puede ser empleada en una operación simple
+> Cluster: conjunto de sectores contiguos​ que componen la unidad más pequeña de almacenamiento de un disco duro.
+1. ¿Cómo se denomina a la unidad de almacenamiento más pequeña que puede ser empleada, en la práctica, en un disco duro?
+a) Byte
+b) Palabra
+x) Cluster
+d) Sector
+
+> EEPROM: Electrically Erasable Programmable Read-Only Memory
+1. ¿Cuál de las siguientes memorias puede ser leida, borrada y escrita de nuevo?
+a) PROM
+b) EPROM
+c) EEPROM
+d) Las dos anteriores son correctas
+
+> El diámetro del disco es de 12 cm
+> El ancho del lector/grabador es de 5" ¼ (13,335)
+1. ¿Cuál de los siguientes discos tiene mayor diámetro?
+a) CD-ROM
+b) DVD-ROM
+c) Blu-ray
+d) Todos tienen el mismo diámetro
+

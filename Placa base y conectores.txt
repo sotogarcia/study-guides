@@ -1,0 +1,60 @@
+# BUS
+
+- Caminos por los cuales circula la información
+
+
+    + Memorias masivas
+
+	- IDE	Integrated Drive Electronics
+		* PATA Parallel Advanced Technology Attachment
+	- SATA	Serial Advanced Technology Attachment
+	- SCSI 	Small Computer System Interface
+
+    + Ranuras de expansión (genéricas)
+
+	- ISA	Industry Standard Architecture
+	- PCI	Peripheral Component Interconnect
+	- PCIe	Peripheral Component Interconnect Express
+
+    + Ranuras de expansión (específicas)
+
+	- AGP	Accelerated Graphics Port
+		* Específico para la tarjeta gráfica
+	- AMR 	Audio/modem riser
+
+    + Ratón y teclado
+
+	- DIN		Deutsches Institut für Normung
+	- Mini DIN	Mini Deutsches Institut für Normung
+		* Alias: PS/2
+
+    + Genéricos
+
+	- RS-232	Recommended Standard 232	
+		* Alias: Puerto serie
+	- USB		Universal Serial Bus
+		* Provee de alimentación eléctrica al dispositivo
+	- IEEE 1284	Institute of Electrical and Electronics Engineers 1284	
+		* Alias: LPT (Line Print Terminal)
+	- IEEE 1394	Institute of Electrical and Electronics Engineers 1394	
+		* Alias: Firewire
+	
+    + Red
+
+	- RJ-45	(8 pines)	Conexión de tarjeta de red a otro dispositivo de red
+	- RJ-11 (6 pines)	Conexión del modem a la clavija de telefonía
+
+    + Salida de vídeo
+
+	- VGA		Video Graphics Array
+	- S-Video	S-Video
+		* Alias: Y/C
+
+	- DVI		Digital Visual Interface
+	- HDMI		High-Definition Multimedia Interface
+		* Porta vídeo y también audio 
+		
+    + Sonido
+
+	(ver tabla de la lámina)
+

@@ -1,0 +1,9 @@
+
+## BUS
+
+    - Camino por el cual circula la información
+    - De forma general, en un extremo tienen el chipset y en otro un puerto
+
+## Puertos / Interfaz de conexión
+
+    - Conector situado en el extremo de un bus

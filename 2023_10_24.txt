@@ -1,0 +1,162 @@
+Ribbon: Es el nombre que Microsoft da a la interfaz que muestra una cinta con fichas. Sustituye a los tradicionales menús y barras de herramientas.
+
+
+## Propiedades
+
+    - ALT + ENTER
+
+    + Elementos
+
+	- Nombre
+	- Tipo 			(Extensión de tipo de archivo)
+	- Tamaño 
+	- Tamaño en disco	(múltiplo del tamaño de cluster)
+	- Fecha de creación
+	- Fecha de modificación
+	- Fecha de último acceso
+	- Atributos
+	    · H Oculto		: oculta el archivo, salvo que se habilite mostrar...
+	    · R Sólo lectura	: impide que el archivo pueda ser modificado
+	    · A	Archivado	: indica que ya se ha hecho copia de seguridad
+	    · S Sistema		: indica que es importante para el sistema operativo
+
+	- Permisos
+	    · C	Crear	Crear
+	    · R	Read	Leer
+	    · U	Update	Modificar
+	    · D	Delete	Borrar
+	    · X eXecute	Ejecutar/Listar
+
+## Agregar ubicación de red
+
+	- Carpetas de red Windows
+		· CIFS: Common Internet File System (CIFS)
+	- Servidor de archivos
+		· FTP: File Transfer Protocol
+	- Servidor WebDav
+		· HTTP: HyperText Transfer Protocol
+
+## Teclado
+
+    + Equipo
+	- ALT + ENTER		Propiedades
+	- ENTER			Abrir	
+	- F2			Cambiar el nombre / etiqueta
+	- WIN + I		Diálogo Configuración
+
+    + Inicio
+
+	- CTRL + X		Cortar	
+	- CTRL + C		Copiar	
+	- CTRL + V		Pegar	
+	- SUPR 			Eliminar
+	- MAYÚS + SUPR		Eliminar definitivamente
+	- F2			Renombrar
+	- CTRL + MAYUS + N	Nueva carpeta
+	- ALT + ENTER		Propiedades
+	- ENTER			Abrir
+	- CTR + E		Seleccionar todo
+	
+	
+	
+	
+
+## Inicio
+
+    + Portapapeles
+
+	- CTRL + X	Cortar	
+		· El original desaparece
+	- CTRL + C	Copiar	
+		· El original se mantiene
+	- CTRL + V	Pegar	
+
+	- Copiar ruta de acceso
+	- Pegar acceso directo
+	- Copiar a
+	- Mover a
+
+## Ficha Vista:
+
+    + Paneles
+
+	- ALT + P		Panel de vista previa
+	- ALT + MAYÚS + P	Panel de detalles
+
+
+
+## Eliminar
+
+    - Eliminar: envía los elementos seleccionado a la papelera de reciclaje
+	· Si la unidad es extraible, no tiene papelera. Eliminación definitiva.
+	· Si el archivo es más grande que la papelera. Eliminación definitiva.
+
+    - SUPR		Enviar a la papelera de reciclaje
+    - MAYÚS + SUPR	Eliminar definitivamente
+
+
+## Copiar y mover
+
+> NOTA: Mover es lo mismo que Cortar + Pegar.
+
+
+    + Al arrastrar con el botón primario
+
+	- Si es un ejecutable siempre se crea un acceso directo
+	- Dentro de la misma unidad se mueve
+	- Entre unidades diferentes se copia
+
+    + Al arrastrar combinando con el teclado
+
+	- MAYÚS 	Mueve
+	- CTRL 		Copia
+	- ALT		Crea acceso directo
+	- CTRL + MAYÚS	Crea acceso directo
+
+    + Al arrastrar con el botón secundario
+
+	- Siempre aparece un menú con las tres opciones
+
+
+## Seleccionar
+
+  - CTRL + E	Seleccionar todo
+  - MAYÚS	Extiende la selección
+  - CTRL 	Suma selecciones
+
+
+## Vistas
+
+    + Iconos
+
+	- El icono aparece arriba
+	- En nombre abajo (salvo iconos pequeños)
+	- Se organizan de izquierda a derecha (luego hacia abajo)
+
+    + Lista
+
+	- Icono a la izquierda 
+	- Nombre a la derecha	
+	- Se organizan de arriba hacia abajo (luego hacia la derecha)
+
+    + Detalles
+
+	- Icono a la izquierda 
+	- Nombre a la derecha	
+	- Se organizan de arriba hacia abajo (sólo en esa dirección)
+	- Número variable de columnas de atributos
+	- Columnas personalizables e interactivas
+
+    + Mosaicos
+	- Icono a la izquierda
+	- Nombre a la derecha
+	- Muestra detalles como el tipo y el tamaño
+	- Se organizan de izquierda a derecha (luego hacia abajo)
+
+    + Contenido 
+	- Icono a la izquierda
+	- Nombre a la derecha
+	- Muestra detalles en dos columnas
+	- Se organizan de arriba hacia abajo (sólo en esa dirección)
+
+

@@ -1,0 +1,143 @@
+# Memorias
+
+## Principales
+
+- Aquellas imprescindibles para el funcionamiento de la computadora.
+
+## ROM
+
+- Read Only Memory / Memoria de sólo lectura
+
+    + PROM
+	- Programmable read-only memory
+	- Puede escribirse una sóla vez
+	- Generalmente la escritura la realiza el fabricante.
+
+    + EPROM
+	- Erasable Programmable Read-Only
+	- Puede ser borrada y reescrita
+	- Generalmente con un lector/grabador especial (rayos ultravioleta)
+
+    + EEPROM
+	- Electrically Erasable Programmable Read-Only Memory
+	- Puede ser borrada y reescrita electricamente
+	- Esto brinda la posibilidad de usar el propio circuito al cual está fijada
+
+    + Flash
+	- EEPROM que puede ser leida y/o escrita en varias posiciones a la vez
+
+## RAM
+
+    + Dinámicas
+	- Más lentas porque necesitan refresco
+	- Más baratas
+	- No interesa la DDR
+		· Double Data Rate
+		· Va por la versión 5
+
+
+    + Estáticas
+	- Más rápidas porque NO necesitan refresco
+	- Más caras
+
+## Secundarias
+
+- Aquellas que se emplean para almacenar las información del usuario.
+
+## Tecnología de papel
+
+    + Tarjetas perforadas
+	- Se emplearon por primera vez en el telar de Jacquard
+	- Cada tarjeta almacena una pequeña cantidad de información
+
+    + Cintas perforadas
+	- Bobina de cinta perforada
+	
+
+## Tecnología magnética
+
+    + Discos flexibles / Disquetes
+
+	- 8 pulgadas
+	- 5¼ pulgadas
+	- 3½ pulgadas
+		· DD	double density
+		· *HD*	high density	1,44 MB
+		· ED	extra density
+
+## Tecnología magnético/óptica
+
+    + ZIP
+    + JAZ
+    + Superdisk
+    + Discos MO
+
+## Tecnología óptica
+
+### Disco compacto
+
+    - Un cara, una capa.
+
+    + CD de audio
+	- Sólo almacena pistas de audio
+	- 16 bits, 44100 hz, estéreo
+	- 74 minutos / 80 minutos
+
+    + CD-ROM
+	- CD de sólo lectura
+	- 640 MB / 700 MB
+
+    + VCD
+	- Video CD
+	- MPEG-I
+
+    + SVCD
+	- Super Video CD
+	- MPEG-II
+
+    + CD-R
+	- CD Recordable
+	- Se puede grabar pero NO borrar
+
+    - CD-RW
+	- CD Rewritable
+	- Se puede grabar, borrar y grabar de nuevo
+
+## DVD
+
+    - Digital Versatile Disc
+    - Una o dos caras
+    - Una o dos capas
+
+    + DVD-ROM
+	- Es de sólo lectura
+	- Video, Audio y/o datos
+	- El audio se muestreada con 16 bits, 48100 hz (estéreo, dolby o DTS)
+
+    + DVD±R
+	- DVD Recordable
+	- Se puede grabar pero NO borrar
+
+    + DVD±RW
+	- DVD Rewritable
+	- Se puede grabar, borrar y grabar de nuevo
+
+    + DVD-RAM
+	- Acceso aleatorio. Se podía leer y escribir como un "disco duro",...
+	- Poco usado y muy caro
+
++ Blue-ray
+   - Una o dos capas
+
++ HD-DVD
+   - Una o dos capas
+
+## Basadas en flash
+
+- PenDrive
+- Tarjetas de memoria
+- Unidad de estado sólido
+
+
+
+

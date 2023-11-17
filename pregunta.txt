@@ -1,0 +1,5 @@
+1. ¿Cómo se representaría digitalmente, es decir, en base binaria, la cantidad máxima de valores que puede representar un solo bit?
+a) 2
+b) 11
+c) 10
+d) 01
