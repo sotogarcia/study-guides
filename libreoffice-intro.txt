@@ -1,0 +1,177 @@
+# LibreOffice		soffice							OpenDocument
+
+										| Documento   | Plantilla |
+									        | ----------- | --------- |
+- LibreOffice Writer	swriter	: procesador de textos				| odt         | ott       |
+- LibreOffice Calc	scalc	: editor de hojas de cálculo			| ods         | ots       |
+- LibreOffice Impress	simpress: diseño de presentaciones (diapositivas)	| odp         | otp       |
+--- x ---
+- Editor de ecuaciones
+- Editor de gráficos
+
+
+Sun StarOffice (Software propietario)		  Pasa a Oracle
+    \______________________________________________|
+		\
+		 \   OpenOffice (Libre y código abierto)
+		  \________________________________| ...      ...|___________
+				   	\
+					 \ LibreOffice 7.4.7.2
+					  \__________________________________
+
+## Licencia
+
+- Código abierto: se distribuye con el código fuente
+- Software Libre: no hay restricciones sobre el uso de ese código ni de la aplicación
+- MPL V2	: Mozilla Public Licence, Versión 2
+
+
+## Desarrollo
+
+- LibreOffice	: The Document Foundation
+- Opendocument	: OASIS
+    \__ ISO/IEC 26300
+
+
+
+## Elementos comunes
+
+
+    - Menú principal
+    - Barras de herramientas	Ver / Barra de herramientas
+    	· Estándar
+    	· Formato
+    - Barra de regla		Ver / Reglas
+	· Horizontal 		CTRL + MAYÚS + R
+	· Vertical
+    - Barras de desplazamiento	
+	· Horizontal		Rueda principal del ratón
+	· Vertical		Rueda secundaria del ratón
+    - Barra lateral		Ver Barra lateral | CTRL + F5
+    - Barra de estado		Ver Barra de estado
+
+
+    + Anclaje de barras y paneles
+
+	- Ratón		: CTRL + Doble clic
+	- Teclado	: CTRL + MAYÚS + F10
+
+    + Zoom
+	
+	- Extremo derecho de la barra de estado
+	- CTRL + Rueda del ratón
+
+
+## LibreOffice Writer
+
+    - Procesador de textos
+    - WYSIWYG: What You See Is What You Get
+
+
+### Acciones comunes
+
+    - Nuevo		Archivo / Nuevo				CTRL + U  ; "CTRL + N"
+
+    - Abrir		Archivo / Abrir				CTRL + A  ; CTRL + O
+
+    - Cerrar		Archivo / Cerrar			CTRL + F4 ; CTRL + W
+
+    - Guardar		Archivo / Guardar			CTRL + G
+	· La primera vez respondo: ubicación, nombre y tipo
+	· Las sucesivas usa los mismos valores
+
+    - Guardar como	Archivo / Guardar como			CTRL + MAYÚS + S
+	· Todas las veces pregunta: ubicación, nombre y tipo
+	· Concluida la acción me deja con la copia
+
+    - Guardar como copia	Archivo / Guardar como copia
+	· Todas las veces pregunta: ubicación, nombre y tipo
+	· Concluida la acción me deja con el ORIGINAL
+
+    - Imprimir		Archivo / Imprimir			CTRL + P
+
+    - Vista previa	Archivo / Previsualización de impresión	CTRL + MAYÚS + O
+
+
+
+### Modos de escritura
+
+    - Inserción		: el texto de la derecha es empujado para dar cabida al nuevo
+    - Sobrescribir	: el texto de la derecha es reemplazado carácter a carácter
+
+### Borrado
+
+    + Hacia la izquierda
+
+	- Retroceso		: elimina carácter a carácter hacia la izquierda
+	- CTRL + Retroceso	: elimina una plabra cada vez hacia la izquierda
+
+    + Hacia la derecha
+
+	- SUPR			: elimina carácter a carácter hacia la derecha
+	- CTRL + SUPR		: elimina una palabra cada vez hacia la derecha
+
+
+### Selecciones
+
+    + F8
+
+	Una vez		: una palabra
+	Dos veces	: una frase (hasta el siguiente punto o enter)
+	Tres veces	: un párrafo (hasta el siguiente enter)
+
+    + Clics de ratón
+
+	Dos clics	: un palabra
+	Tres clics	: una frase
+	Cuatro clics	: un párrafo
+
+    + CTRL + E
+	
+	Selecciona "todo" lo que hay en el área en la cual está el cursor
+	Sucesivas pulsaciones de esta combinación extienden la selección a un área mayor
+
+### Otras cosas sueltas
+
+
+   - Ayuda	F1
+
+
+### Unidades
+
+	Puntos		pt
+	Picas		pc
+	
+	Milímetros	mm
+	Centímetros	cm
+	Pulgadas	"
+
+	*Carácter	~car.~
+	*Línea		~línea~
+
+### Vistas
+
+	- Normal	Vista con límites de página 
+	- Web		Vista sin límites de página (todo corrido) y sin ancho fijo
+
+
+## Barra de estado
+
+- Icono Documento modificado
+- Nº de página sobre el total de páginas
+- Nº de palabras sobre el total de palabras
+	· Recuento de la selección, si existe
+	· Recuento para todo el documento, si no se ha seleccionado nada
+- Estilo aplicado a la página en la cual está el cursor
+- Idioma de corrección
+- Modo de escritura:
+	Sobrescribir
+	Insertar (aparece vacío)
+- Firmas
+- Información diversa
+	· Nombre de la sección
+	· Nombre de tabla y celda	tabla:C1
+	· Nivel en la lista
+	· Nivel de título
+	· Vistas y zoom
+
